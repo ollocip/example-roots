@@ -1,0 +1,63 @@
+#customize-controls .control-section-unisco-pro .accordion-section-title:hover,
+#customize-controls .control-section-unisco-pro .accordion-section-title:focus {
+    background-color: #fff;
+}
+
+#accordion-panel-unisco-pro-options .accordion-section-title,
+#accordion-panel-unisco-pro-options .accordion-section-title:hover,
+#accordion-panel-unisco-pro-options .accordion-section-title:focus {
+    border-left: 4px solid rgb(55, 191, 145);
+    color: rgb(55, 191, 145);
+}
+
+#accordion-section-unisco_pro .accordion-section-title,
+#accordion-section-unisco_pro .accordion-section-title:hover,
+#accordion-section-unisco_pro .accordion-section-title:focus {
+    border-left: 4px solid rgb(55, 191, 145);
+    color: rgb(55, 191, 145);
+}
+
+#accordion-section-unisco_pro .accordion-section-title .customize-action {
+    color: #a9a9a9;
+}
+
+#accordion-section-unisco_pro .accordion-section-title .button {
+    background: rgb(55, 191, 145);
+    -webkit-box-shadow: 0 1px 0 rgb(48, 171, 129);
+    box-shadow: 0 1px 0 rgb(48, 171, 129);
+    text-shadow: 0 -1px 1px rgb(42, 150, 110), 1px 0 1px rgb(39, 142, 107), 0 1px 1px rgb(36, 132, 99), -1px 0 1px rgb(29, 107, 80);
+    border-color: rgb(47, 175, 131);
+}
+
+#accordion-section-unisco_pro .accordion-section-title:hover .button {
+    background: rgb(47, 175, 131);
+}
+
+#customize-controls #accordion-panel-unisco-pro-options .accordion-section-title:focus, #customize-controls #accordion-panel-unisco-pro-options .accordion-section-title:hover, #customize-controls #accordion-panel-unisco-pro-options.open .accordion-section-title, #customize-controls #accordion-panel-unisco-pro-options:hover>.accordion-section-title {
+    color: #79969b;
+    border-left: 4px solid #79969b;
+}
+
+#customize-controls #accordion-panel-unisco-pro-options .accordion-section-title:after {
+    color: rgb(55, 191, 145);
+}
+
+#customize-controls #accordion-panel-unisco-pro-options .accordion-section-title:hover:after {
+    color: #79969b;
+}
+
+.control-section-unisco-pro .accordion-section-title .button {
+    margin-top: 8px;
+    font-weight: 400;
+    margin-left: 8px;
+}
+
+.control-section-unisco-pro .accordion-section-title .customize-action {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.rtl .control-section-unisco-pro .accordion-section-title .button {
+    margin-left:  0;
+    margin-right: 8px;
+}

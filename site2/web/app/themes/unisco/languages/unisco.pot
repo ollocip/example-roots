@@ -1,0 +1,1010 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: UNISCO\n"
+"POT-Creation-Date: 2017-09-25 12:58+0530\n"
+"PO-Revision-Date: 2017-06-17 19:34+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:37
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: 404.php:38
+msgid "Maybe try one of the links from below or another search?"
+msgstr ""
+
+#: 404.php:53
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+#: 404.php:70
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#. translators: %s: Total number of comments.
+#: comments.php:37
+#, php-format
+msgid "Comments (%s)"
+msgstr ""
+
+#: comments.php:43
+msgid "Write a Comment"
+msgstr ""
+
+#: comments.php:53 comments.php:71
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56 comments.php:74
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:57 comments.php:75
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:98
+msgid "Full Name"
+msgstr ""
+
+#: comments.php:101
+msgid "Email ID"
+msgstr ""
+
+#: comments.php:104
+msgid "Website URL"
+msgstr ""
+
+#. translators: %s: Author of the comment being replied to.
+#: comments.php:115
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:116
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:117
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:120
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#. translators: %s: Login URL.
+#: comments.php:125
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. translators: %1$s: Logged in user's profile URL. %2$s: Logged in user's name. %3$s: Log out URL.
+#: comments.php:132
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:129
+msgid "Slide"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:135
+msgid "Post/Page for slide content"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:137
+msgid "None"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:147
+msgid "Button 1"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:156
+msgid "Button 2"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:158
+msgid "Text"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:165
+msgid "Remove"
+msgstr ""
+
+#: customizer/controls/unisco_slide_repeater.php:173
+msgid "Add Slide"
+msgstr ""
+
+#: customizer/sections/slider.php:34
+msgid "Front Slider"
+msgstr ""
+
+#: customizer/sections/slider.php:40
+msgid ""
+"Allows you to customize the slider on the front page. This slider will "
+"appear only when the front page is set to latest posts."
+msgstr ""
+
+#: customizer/sections/slider.php:61
+msgid "Enable Front Slider"
+msgstr ""
+
+#: customizer/sections/slider.php:71
+msgid "No"
+msgstr ""
+
+#: customizer/sections/slider.php:72
+msgid "Yes"
+msgstr ""
+
+#: customizer/sections/slider.php:81
+msgid "Creative Thinking & Innovation"
+msgstr ""
+
+#: customizer/sections/slider.php:82 customizer/sections/slider.php:92
+#: customizer/sections/slider.php:102
+msgid ""
+"Proactively utilize open-source users for process-centric total linkage."
+"<br> Energistically reinvent web-enabled initiatives with premium "
+"<br>processes. Proactively drive."
+msgstr ""
+
+#: customizer/sections/slider.php:84 customizer/sections/slider.php:94
+msgid "See programs"
+msgstr ""
+
+#: customizer/sections/slider.php:86 customizer/sections/slider.php:96
+msgid "Learn More"
+msgstr ""
+
+#: customizer/sections/slider.php:91
+msgid "We foster wisdom"
+msgstr ""
+
+#: customizer/sections/slider.php:101
+msgid "Campus life @ Unisco"
+msgstr ""
+
+#: customizer/sections/slider.php:104
+msgid "Campus life"
+msgstr ""
+
+#: customizer/sections/slider.php:114
+msgid "Slides"
+msgstr ""
+
+#: customizer/sections/slider.php:115
+msgid "Add more and more and more..."
+msgstr ""
+
+#: footer.php:46
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:48
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#. translators: 1: Theme name, 2: Theme author.
+#: footer.php:53
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:57
+msgid "Top Left"
+msgstr ""
+
+#: functions.php:58
+msgid "Top Right"
+msgstr ""
+
+#: functions.php:117
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:119
+msgid "This is the default sidebar."
+msgstr ""
+
+#: functions.php:126
+msgid "Course"
+msgstr ""
+
+#: functions.php:128
+msgid "This sidebar will be shown on single course page."
+msgstr ""
+
+#: functions.php:135
+msgid "Footer"
+msgstr ""
+
+#: functions.php:137
+msgid "Add widgets here."
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: functions.php:156
+msgctxt "Lora font: on or off"
+msgid "on"
+msgstr ""
+
+#: header.php:25
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-tgmpa.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgmpa.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgmpa.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgmpa.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgmpa.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgmpa.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgmpa.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgmpa.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgmpa.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgmpa.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgmpa.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgmpa.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgmpa.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgmpa.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgmpa.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgmpa.php:393 inc/class-tgmpa.php:915 inc/class-tgmpa.php:2624
+#: inc/class-tgmpa.php:3671
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgmpa.php:394 inc/class-tgmpa.php:3250
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgmpa.php:395 inc/class-tgmpa.php:3043
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/class-tgmpa.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgmpa.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgmpa.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgmpa.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgmpa.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgmpa.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgmpa.php:1022
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgmpa.php:1022 inc/class-tgmpa.php:1025
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgmpa.php:1025
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgmpa.php:1212 inc/class-tgmpa.php:3039
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/class-tgmpa.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgmpa.php:2364
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgmpa.php:2367
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgmpa.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgmpa.php:2386
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgmpa.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgmpa.php:2406
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgmpa.php:2410
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgmpa.php:2412
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgmpa.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgmpa.php:2421
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgmpa.php:2424
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgmpa.php:2433
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgmpa.php:2479
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgmpa.php:2483
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgmpa.php:2487
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgmpa.php:2491
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgmpa.php:2573
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgmpa.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgmpa.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgmpa.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgmpa.php:2624
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgmpa.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgmpa.php:2639
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgmpa.php:2640
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgmpa.php:2644
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgmpa.php:2645
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgmpa.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgmpa.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgmpa.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgmpa.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgmpa.php:2808
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgmpa.php:2814
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgmpa.php:2817
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgmpa.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgmpa.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgmpa.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgmpa.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgmpa.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgmpa.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgmpa.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgmpa.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgmpa.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgmpa.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgmpa.php:3600 inc/class-tgmpa.php:3608
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgmpa.php:3600 inc/class-tgmpa.php:3608
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgmpa.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgmpa.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgmpa.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgmpa.php:3608
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgmpa.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgmpa.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Unisco Pro"
+msgstr ""
+
+#: inc/customizer.php:102
+msgid "Go Pro"
+msgstr ""
+
+#: inc/customizer.php:104
+msgid "Courses, Events & more"
+msgstr ""
+
+#: inc/customizer.php:116
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Display Site Title"
+msgstr ""
+
+#: inc/customizer.php:136
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer.php:156
+msgid "Display Site Tagline"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Accent Color"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "Footer Heading Color"
+msgstr ""
+
+#: inc/customizer.php:310
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:336
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid "This logo will appear on small screens."
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "Unisco Lite"
+msgstr ""
+
+#: inc/extras.php:31
+msgid "Add a menu"
+msgstr ""
+
+#: inc/extras.php:81
+msgid "Read More"
+msgstr ""
+
+#: inc/extras.php:88
+msgid "Search for:"
+msgstr ""
+
+#: inc/extras.php:89 inc/extras.php:90
+msgid "Search"
+msgstr ""
+
+#: inc/extras.php:117
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:248
+msgid "Unisco"
+msgstr ""
+
+#: inc/extras.php:269
+msgid "Important info about menu"
+msgstr ""
+
+#: inc/extras.php:270
+msgid ""
+"This theme comes with two menu locations in the header area, namely, top "
+"left and top right. You should distribute your menu items among the top "
+"left and top right menus because site logo will appear in between these two "
+"menus."
+msgstr ""
+
+#: inc/extras.php:272
+msgid "How to setup a slide for slider?"
+msgstr ""
+
+#: inc/extras.php:273
+msgid ""
+"Create a post or page with slider content. Do not forget to add featured "
+"image since it will be used as background image for a slide. Go to "
+"Appearance > Customizer > Front Slider. Enable slider if not already. Under "
+"Slides > Slide 1, select the post or page you want to output content from."
+msgstr ""
+
+#: inc/extras.php:277
+msgid "PRO version benefits?"
+msgstr ""
+
+#: inc/extras.php:279
+msgid "One click demo setup."
+msgstr ""
+
+#: inc/extras.php:280
+msgid "Page Builder."
+msgstr ""
+
+#: inc/extras.php:281
+msgid "Events."
+msgstr ""
+
+#: inc/extras.php:282
+msgid "Courses."
+msgstr ""
+
+#: inc/extras.php:283
+msgid "Custom forms specifically made for admissions and contact."
+msgstr ""
+
+#: inc/extras.php:284
+msgid "Testimonials."
+msgstr ""
+
+#: inc/extras.php:285
+msgid "Customize pages with page specific options."
+msgstr ""
+
+#: inc/extras.php:286
+msgid "Typography powered with Google fonts."
+msgstr ""
+
+#: inc/extras.php:287
+msgid "Page layouts - Right Sidebar, Left Sidebar, Boxed and Full Width."
+msgstr ""
+
+#: inc/extras.php:288
+msgid "Instagram feeds."
+msgstr ""
+
+#: inc/extras.php:289
+msgid "Google Maps."
+msgstr ""
+
+#: inc/extras.php:290
+msgid "24x7 Support"
+msgstr ""
+
+#: inc/template-functions.php:177
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/template-functions.php:187 inc/template-functions.php:189
+#: template-parts/header/header-slider.php:87
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:199 inc/template-functions.php:201
+#: template-parts/header/header-slider.php:91
+msgid "Next"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29 inc/template-tags.php:69
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:35 inc/template-tags.php:75
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:92 inc/template-tags.php:126
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:99 inc/template-tags.php:133
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:109 template-parts/content-page.php:40
+#: template-parts/content-quote.php:37
+msgid "Edit"
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:129
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:136
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:146
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:162
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "No posts to show"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-page.php:55 template-parts/content-quote.php:52
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-page.php:66 template-parts/content-quote.php:63
+#: template-parts/content.php:62
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: search query.
+#: template-parts/content-title.php:8
+#: template-parts/header/header-title.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-title.php:13
+#: template-parts/header/header-title.php:26
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:57
+#, php-format
+msgid "Read more %s"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "UNISCO"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://snapthemes.io/unisco/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A theme for schools, colleges, universities or other educational "
+"institutions."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SnapThemes, gautamanizer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://snapthemes.io/"
+msgstr ""
